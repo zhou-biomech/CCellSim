@@ -1,7 +1,3 @@
-# ccell
+# CCellSim
 
-Zhou Lvwen: zhoulvwen@nbu.edu.cn
-
-Codes for the paper:
-
-??
+An Efficient Multi-scale Simulation Environment for Collective Cell Migration
